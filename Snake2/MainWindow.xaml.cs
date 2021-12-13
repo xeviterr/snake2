@@ -54,7 +54,7 @@ namespace Snake2
             {
                 Ellipse ell = new Ellipse()
                 {
-                    Fill = Brushes.Yellow,
+                    Fill = Brushes.Red,
                     Width = tamanyXCasella,
                     Height = tamanyYCasella,
                 };
