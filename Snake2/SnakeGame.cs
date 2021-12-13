@@ -17,8 +17,8 @@ namespace Snake2
 
     class SnakeGame
     {
-        public const int X_SIZE = 5;
-        public const int Y_SIZE = 5;
+        public const int X_SIZE = 10;
+        public const int Y_SIZE = 10;
 
         Point capSerp = new Point(X_SIZE/2, 0);
         DireccioSnake direccio = DireccioSnake.Dreta;

@@ -42,7 +42,7 @@ namespace Snake2
             //Redibuixar cada vegada.
             Ellipse ellSerp = new Ellipse()
             {
-                Fill = Brushes.Pink,
+                Fill = Brushes.Red,
                 Width = tamanyXCasella,
                 Height = tamanyYCasella,
             };
