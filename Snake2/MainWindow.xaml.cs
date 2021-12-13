@@ -34,8 +34,6 @@ namespace Snake2
 
         private void Timer_Tick(object sender, EventArgs e)
         {
-            canvas.Children.Clear();
-
             int tamanyXCasella = (int)(canvas.ActualWidth / SnakeGame.X_SIZE);
             int tamanyYCasella = (int)(canvas.ActualHeight / SnakeGame.Y_SIZE);
 
